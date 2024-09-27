@@ -1,0 +1,11 @@
+geladeira:2500
+microondas:900
+televisao:3200
+forno:1500
+máquina de lavar:2000
+ar condicionado:1800
+fogão:1200
+laptop:3500
+celular:1800
+cama:1000
+sofá:2500
