@@ -1,7 +1,0 @@
-Antonio Carlos:10,10,10
-Francisco Antonio:10,10,10
-Tenfen:9,7,5
-Lucas:3,10,7
-Joao :4,7,9
-Zanelato :6,10,10
-Luiza:9,9,4
