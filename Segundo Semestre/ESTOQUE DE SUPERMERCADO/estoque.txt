@@ -1,0 +1,8 @@
+arroz 5kg,25.50,10,grãos
+óleo de soja 1L,7.99,20,mantimentos
+pão francês,13.99,50,padaria
+frango congelado 1kg,18.99,15,carnes
+leite integral 1L,4.50,30,laticínios
+feijão preto 1kg,9.90,25,grãos
+banana prata 1kg,6.99,40,frutas
+sabão em pó 1kg,12.49,15,limpeza

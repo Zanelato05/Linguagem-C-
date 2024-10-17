@@ -1,0 +1,3 @@
+arroz 5kg,3
+óleo de soja 1L,5
+banana prata 1kg,10
